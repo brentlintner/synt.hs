@@ -1,0 +1,20 @@
+{
+  "name": "synt-hs",
+  "private": true,
+  "scripts": {
+    "vile": "vile p -u -n"
+  },
+  "devDependencies": {
+    "npm-check-updates": "^2.10.5",
+    "vile": "^0.16.0",
+    "vile-comment": "^0.1.17",
+    "vile-coverage": "^0.2.14",
+    "vile-depcheck": "^0.1.12",
+    "vile-eclint": "^0.1.13",
+    "vile-git": "^0.5.1",
+    "vile-hlint": "^0.2.1",
+    "vile-language": "^0.1.12",
+    "vile-ncu": "^0.2.1",
+    "vile-stat": "^0.0.15"
+  }
+}

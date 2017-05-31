@@ -1,0 +1,9 @@
+node_modules
+coverage
+dist
+npm-debug.log
+cabal.sandbox.config
+.cabal-sandbox
+tmp
+tags
+*.tix

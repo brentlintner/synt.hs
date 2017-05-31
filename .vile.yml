@@ -1,0 +1,28 @@
+vile:
+  ignore:
+    - .ackrc
+    - bin
+    - circle.yml
+    - dist/**
+    - .cabal-sandbox/**
+    - coverage
+    - public
+    - db
+    - tmp
+    - .git
+    - node_modules
+    - .log
+    - .keep
+    - tags
+    - .ctags
+    - .editorconfig
+    - .env
+    - .gitignore
+    - .npmrc
+    - .vile.yml
+    - LICENSE
+
+hlint:
+  allow:
+    - src
+    - test
